@@ -79,7 +79,7 @@ INSERT INTO SpotifyClone.users (user_name, age, plan_id, date_start) VALUES
 	('Jorge Amado', '58', '4', '2017-02-17');
 
 INSERT INTO SpotifyClone.artist (artist_name) VALUES
-	('Beyoncé'),
+    ('Beyoncé'),
 	('Queen'),
 	('Elis Regina'),
 	('Baco Exu do Blues'),
